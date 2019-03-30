@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       < >
-      <h1>Learning GIT</h1>
+       <h1>Learning GIT</h1>
       </>
     )
   }
